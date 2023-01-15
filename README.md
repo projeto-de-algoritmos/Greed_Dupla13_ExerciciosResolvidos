@@ -1,44 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_Dupla13_ExerciciosResolvidos
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 13<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0161871 |  Denniel William Roriz Lima |
+| 18/0017659  |  Giovana Vitor Dionísio Santana |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é através de exercícios de Greed do [Codeforces](https://codeforces.com/problemset?tags=greedy) e do [Beecrowd](https://www.beecrowd.com.br/judge/pt/search?q=greedy&for=problems) exercitar e aplicar os conhecimentos obtidos em sala de aula sobre o paradigma de programação como, também, seus algoritmos.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+## Apresentação
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
+Como pré requisito é necessário ser uma versão python3 da linguagem
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar o projeto é necessário somente entrar na pasta do exercício e rodar o arquivo com o número do mesmo. 
+Exemplo:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```
+python3 /<pasta_exercicio>/<numero_exercicio>.py
+```
 
 
 
