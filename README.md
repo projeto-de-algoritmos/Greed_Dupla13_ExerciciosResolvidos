@@ -13,6 +13,8 @@
 O objetivo do projeto é através de exercícios de Greed do [Codeforces](https://codeforces.com/problemset?tags=greedy) e do [Beecrowd](https://www.beecrowd.com.br/judge/pt/search?q=greedy&for=problems) exercitar e aplicar os conhecimentos obtidos em sala de aula sobre o paradigma de programação como, também, seus algoritmos.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/54074370/212556259-db0a575e-da04-4cc0-9fae-558890eaaf91.png)
+![image](https://user-images.githubusercontent.com/54074370/212556268-bf06a085-52dc-46b5-ab1e-ea1ce2e36005.png)
 
 ## Apresentação
 
