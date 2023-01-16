@@ -19,6 +19,8 @@ O objetivo do projeto é através de exercícios de Greed do [Codeforces](https:
 ![1054](https://user-images.githubusercontent.com/54070461/212776925-a0e804fd-8315-4edf-a62a-339f7b4839bc.png)
 
 ## Apresentação
+https://user-images.githubusercontent.com/54070461/212780341-35a43667-8a05-4e22-a257-2543bbfa897f.mp4
+
 
 
 ## Instalação 
